@@ -1,6 +1,9 @@
 {
 	"name": "@nomic-ai/gridantt",
-	"version": "0.0.1",
+	"version": "0.1.0",
+	"description": "A CSS-grid based Gantt chart component for Svelte",
+	"license": "MIT",
+	"author": "Ben Schmidt, Nomic AI",
 	"scripts": {
 		"dev": "vite dev",
 		"build": "vite build && npm run package",

@@ -110,7 +110,7 @@
 					rows={1}
 					>
 						{#snippet header()}
-							{arr.label}
+							<span class="text header-text">{arr.label}</span>
 						{/snippet}
 						<div>
 							<GanttChart
@@ -142,6 +142,11 @@
 </div>
 
 <style>
+
+	.header-text {
+		font-size: large;
+		font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+	}
 	.overgrid {
 		display: grid;
 		grid-template-columns: repeat(500, minmax(0, 1fr));

@@ -27,7 +27,7 @@
     "deathDate": "1803-10-02",
     "gender": "Male",
     "race": "White",
-    "areaOfInfluence": { "major": "Politics", "minor": "Revolutionary Leader" },
+    "areaOfInfluence": { "major": "Politics", "minor": "Revolutionary Figure" },
     "politicalAffiliation": "Patriot/Anti-British",
     "notableFor": "Leader of the American Revolution",
     "nationality": "American"
@@ -60,7 +60,7 @@
       "deathDate": "1906-03-13",
       "gender": "Female",
       "race": "White",
-      "areaOfInfluence": { "major": "Social Activism", "minor": "Women's Rights Activism" },
+      "areaOfInfluence": { "major": "Social Activism", "minor": "Women's Rights" },
       "politicalAffiliation": "Women's Suffrage Movement",
       "notableFor": "Pioneer in the women's suffrage movement",
       "nationality": "American"
@@ -71,7 +71,7 @@
       "deathDate": "1975-12-04",
       "gender": "Female",
       "race": "White",
-      "areaOfInfluence": { "major": "Philosophy", "minor": "Political Theory" },
+      "areaOfInfluence": { "major": "Literature", "minor": "Political Theory" },
       "politicalAffiliation": null,
       "notableFor": "Philosopher known for work on totalitarianism and authority",
       "nationality": "German-American"
@@ -82,7 +82,7 @@
       "deathDate": "1971-07-06",
       "gender": "Male",
       "race": "African American",
-      "areaOfInfluence": { "major": "Arts", "minor": "Music (Jazz)" },
+      "areaOfInfluence": { "major": "Arts", "minor": "Music" },
       "politicalAffiliation": null,
       "notableFor": "Iconic jazz musician and vocalist",
       "nationality": "American"
@@ -93,7 +93,7 @@
       "deathDate": "2012-08-25",
       "gender": "Male",
       "race": "White",
-      "areaOfInfluence": { "major": "Exploration", "minor": "Space Exploration" },
+      "areaOfInfluence": { "major": "Exploration", "minor": "Astronaut" },
       "politicalAffiliation": null,
       "notableFor": "First person to walk on the Moon",
       "nationality": "American"
@@ -171,7 +171,7 @@
       "deathDate": "1998-11-29",
       "gender": "Male",
       "race": "Latino",
-      "areaOfInfluence": { "major": "Military", "minor": "Special Forces" },
+      "areaOfInfluence": { "major": "Military", "minor": "Vietnam War" },
       "politicalAffiliation": null,
       "notableFor": "Medal of Honor recipient for Vietnam War heroism",
       "nationality": "American"
@@ -193,7 +193,7 @@
       "deathDate": "1989-09-22",
       "gender": "Male",
       "race": "White",
-      "areaOfInfluence": { "major": "Arts", "minor": "Music (Songwriting)" },
+      "areaOfInfluence": { "major": "Arts", "minor": "Music" },
       "politicalAffiliation": null,
       "notableFor": "Prolific songwriter ('White Christmas', 'God Bless America')",
       "nationality": "American"
@@ -270,7 +270,7 @@
       "deathDate": "2008-02-27",
       "gender": "Male",
       "race": "White",
-      "areaOfInfluence": { "major": "Politics", "minor": "Conservatism and Journalism" },
+      "areaOfInfluence": { "major": "Literature", "minor": "Politics" },
       "politicalAffiliation": "Conservative",
       "notableFor": "Founder of National Review, key conservative intellectual",
       "nationality": "American"
@@ -315,7 +315,7 @@
       "deathDate": "1832-11-14",
       "gender": "Male",
       "race": "White",
-      "areaOfInfluence": { "major": "Politics", "minor": "Founding Father" },
+      "areaOfInfluence": { "major": "Politics", "minor": "Revolutionary Figure" },
       "politicalAffiliation": "Federalist",
       "notableFor": "Signer of the Declaration of Independence",
       "nationality": "American"
@@ -326,7 +326,7 @@
       "deathDate": "1815-12-03",
       "gender": "Male",
       "race": "White",
-      "areaOfInfluence": { "major": "Religion", "minor": "Catholic Leadership" },
+      "areaOfInfluence": { "major": "Religion", "minor": "Catholic" },
       "politicalAffiliation": null,
       "notableFor": "First Catholic bishop and archbishop in the U.S.",
       "nationality": "American"
@@ -349,7 +349,7 @@
       "deathDate": "2003-09-12",
       "gender": "Male",
       "race": "White",
-      "areaOfInfluence": { "major": "Arts", "minor": "Music (Country/Folk)" },
+      "areaOfInfluence": { "major": "Arts", "minor": "Music" },
       "politicalAffiliation": null,
       "notableFor": "Influential country music singer-songwriter",
       "nationality": "American"
@@ -360,7 +360,7 @@
       "deathDate": "1914-02-24",
       "gender": "Male",
       "race": "White",
-      "areaOfInfluence": { "major": "Military", "minor": "Civil War Leadership" },
+      "areaOfInfluence": { "major": "Military", "minor": "Civil War" },
       "politicalAffiliation": "Republican",
       "notableFor": "Union general at Gettysburg, later Governor of Maine",
       "nationality": "American"
@@ -371,7 +371,7 @@
       "deathDate": "1961-07-09",
       "gender": "Male",
       "race": "White",
-      "areaOfInfluence": { "major": "Politics", "minor": "Anti-Communism and Journalism" },
+      "areaOfInfluence": { "major": "Literature", "minor": "Politics" },
       "politicalAffiliation": "Conservative",
       "notableFor": "Former Soviet spy turned anti-communist witness",
       "nationality": "American"
@@ -393,7 +393,7 @@
       "deathDate": "2004-06-10",
       "gender": "Male",
       "race": "African American",
-      "areaOfInfluence": { "major": "Arts", "minor": "Music (Soul/R&B)" },
+      "areaOfInfluence": { "major": "Arts", "minor": "Music" },
       "politicalAffiliation": null,
       "notableFor": "Pioneering musician who blended genres and overcame blindness",
       "nationality": "American"
@@ -415,7 +415,7 @@
       "deathDate": "1979-03-24",
       "gender": "Male",
       "race": "Asian",
-      "areaOfInfluence": { "major": "Military", "minor": "Naval Leadership" },
+      "areaOfInfluence": { "major": "Military", "minor": "Navy" },
       "politicalAffiliation": null,
       "notableFor": "First Asian American graduate of the U.S. Naval Academy; WWII hero",
       "nationality": "American"
@@ -504,7 +504,7 @@
       "deathDate": "1965-02-15",
       "gender": "Male",
       "race": "African American",
-      "areaOfInfluence": { "major": "Arts", "minor": "Music (Jazz/Pop)" },
+      "areaOfInfluence": { "major": "Arts", "minor": "Music" },
       "politicalAffiliation": null,
       "notableFor": "Pioneering African-American musician and TV host",
       "nationality": "American"
@@ -571,7 +571,7 @@
       "deathDate": "2002-07-04",
       "gender": "Male",
       "race": "African American",
-      "areaOfInfluence": { "major": "Military", "minor": "Air Force Leadership" },
+      "areaOfInfluence": { "major": "Military", "minor": "Air Force" },
       "politicalAffiliation": null,
       "notableFor": "First African American general in the U.S. Air Force",
       "nationality": "American"
@@ -582,7 +582,7 @@
       "deathDate": "1991-09-28",
       "gender": "Male",
       "race": "African American",
-      "areaOfInfluence": { "major": "Arts", "minor": "Music (Jazz)" },
+      "areaOfInfluence": { "major": "Arts", "minor": "Music" },
       "politicalAffiliation": null,
       "notableFor": "Innovative jazz trumpeter and bandleader",
       "nationality": "American"
@@ -604,7 +604,7 @@
       "deathDate": "1892-05-08",
       "gender": "Male",
       "race": "Latino",
-      "areaOfInfluence": { "major": "Military", "minor": "Civil War Hero" },
+      "areaOfInfluence": { "major": "Military", "minor": "Civil War" },
       "politicalAffiliation": null,
       "notableFor": "First Hispanic American awarded the Medal of Honor",
       "nationality": "American"
@@ -637,7 +637,7 @@
       "deathDate": "1959-02-08",
       "gender": "Male",
       "race": "White",
-      "areaOfInfluence": { "major": "Military", "minor": "Intelligence and Espionage" },
+      "areaOfInfluence": { "major": "Military", "minor": "Spooky" },
       "politicalAffiliation": "Republican",
       "notableFor": "Founder of the OSS, precursor to the CIA",
       "nationality": "American"
@@ -648,7 +648,7 @@
       "deathDate": "1993-09-27",
       "gender": "Male",
       "race": "White",
-      "areaOfInfluence": { "major": "Military", "minor": "Aviation and WWII" },
+      "areaOfInfluence": { "major": "Military", "minor": "World War II" },
       "politicalAffiliation": null,
       "notableFor": "Leader of the Doolittle Raid during World War II",
       "nationality": "American"
@@ -659,7 +659,7 @@
       "deathDate": "2006-03-23",
       "gender": "Male",
       "race": "White",
-      "areaOfInfluence": { "major": "Military", "minor": "Medal of Honor Recipient" },
+      "areaOfInfluence": { "major": "Military", "minor": "World War II" },
       "politicalAffiliation": null,
       "notableFor": "Conscientious objector who saved 75 men in WWII",
       "nationality": "American"
@@ -693,7 +693,7 @@
       "deathDate": "1955-03-03",
       "gender": "Female",
       "race": "White",
-      "areaOfInfluence": { "major": "Religion", "minor": "Catholic Philanthropy and Education" },
+      "areaOfInfluence": { "major": "Religion", "minor": "Catholic" },
       "politicalAffiliation": null,
       "notableFor": "Catholic saint and philanthropist for Native and African Americans",
       "nationality": "American"
@@ -737,7 +737,7 @@
       "deathDate": "1758-03-22",
       "gender": "Male",
       "race": "White",
-      "areaOfInfluence": { "major": "Religion", "minor": "Theology and Preaching" },
+      "areaOfInfluence": { "major": "Religion", "minor": "Protestant" },
       "politicalAffiliation": null,
       "notableFor": "Key figure in the First Great Awakening",
       "nationality": "American"
@@ -770,7 +770,7 @@
       "deathDate": "1974-05-24",
       "gender": "Male",
       "race": "African American",
-      "areaOfInfluence": { "major": "Arts", "minor": "Music (Jazz)" },
+      "areaOfInfluence": { "major": "Arts", "minor": "Music" },
       "politicalAffiliation": null,
       "notableFor": "Influential jazz composer, pianist, and bandleader",
       "nationality": "American"
@@ -781,7 +781,7 @@
       "deathDate": "1882-04-27",
       "gender": "Male",
       "race": "White",
-      "areaOfInfluence": { "major": "Philosophy", "minor": "Transcendentalism" },
+      "areaOfInfluence": { "major": "Literature", "minor": "Philosophy" },
       "politicalAffiliation": null,
       "notableFor": "Leader of the transcendentalist movement",
       "nationality": "American"
@@ -803,7 +803,7 @@
       "deathDate": "1870-08-14",
       "gender": "Male",
       "race": "White",
-      "areaOfInfluence": { "major": "Military", "minor": "Naval Command" },
+      "areaOfInfluence": { "major": "Military", "minor": "Navy" },
       "politicalAffiliation": null,
       "notableFor": "First admiral in the U.S. Navy; Civil War hero",
       "nationality": "American"
@@ -814,7 +814,7 @@
       "deathDate": "1834-05-20",
       "gender": "Male",
       "race": "White",
-      "areaOfInfluence": { "major": "Military", "minor": "Revolutionary War Ally" },
+      "areaOfInfluence": { "major": "Military", "minor": "Revolutionary War" },
       "politicalAffiliation": null,
       "notableFor": "French aristocrat who fought in the American Revolution",
       "nationality": "French"
@@ -848,7 +848,7 @@
       "deathDate": "1691-01-13",
       "gender": "Male",
       "race": "White",
-      "areaOfInfluence": { "major": "Religion", "minor": "Quaker Movement" },
+      "areaOfInfluence": { "major": "Religion", "minor": "Quaker" },
       "politicalAffiliation": null,
       "notableFor": "Founder of the Religious Society of Friends (Quakers)",
       "nationality": "English",
@@ -862,7 +862,7 @@
   "deathDate": "2018-08-16",
   "gender": "Female",
   "race": "African American",
-  "areaOfInfluence": { "major": "Arts", "minor": "Music (Soul)" },
+  "areaOfInfluence": { "major": "Arts", "minor": "Music" },
   "politicalAffiliation": null,
   "notableFor": "Queen of Soul and civil rights activist",
   "nationality": "American"
@@ -873,7 +873,7 @@
   "deathDate": "1790-04-17",
   "gender": "Male",
   "race": "White",
-  "areaOfInfluence": { "major": "Politics", "minor": "Founding Father" },
+  "areaOfInfluence": { "major": "Politics", "minor": "Revolutionary Figure" },
   "politicalAffiliation": null,
   "notableFor": "Founding Father, inventor, diplomat, and author",
   "nationality": "American"
@@ -906,7 +906,7 @@
   "deathDate": "2002-01-31",
   "gender": "Male",
   "race": "White",
-  "areaOfInfluence": { "major": "Military", "minor": "Aviation and Air Combat" },
+  "areaOfInfluence": { "major": "Military", "minor": "Air Force" },
   "politicalAffiliation": null,
   "notableFor": "Top American fighter ace in WWII and Korean War",
   "nationality": "American"
@@ -917,7 +917,7 @@
   "deathDate": "1786-11-30",
   "gender": "Male",
   "race": "White",
-  "areaOfInfluence": { "major": "Military", "minor": "Revolutionary War Ally" },
+  "areaOfInfluence": { "major": "Military", "minor": "Revolutionary War" },
   "politicalAffiliation": null,
   "notableFor": "Spanish governor and general who aided American Revolution",
   "nationality": "Spanish"
@@ -961,7 +961,7 @@
   "deathDate": "2020-09-18",
   "gender": "Female",
   "race": "White",
-  "areaOfInfluence": { "major": "Politics", "minor": "Law and Judiciary" },
+  "areaOfInfluence": { "major": "Law", "minor": "Supreme Court" },
   "politicalAffiliation": "Liberal",
   "notableFor": "Supreme Court Justice and women's rights advocate",
   "nationality": "American"
@@ -983,7 +983,7 @@
   "deathDate": "1998-05-29",
   "gender": "Male",
   "race": "White",
-  "areaOfInfluence": { "major": "Politics", "minor": "Conservatism" },
+  "areaOfInfluence": { "major": "Politics", "minor": "Senator" },
   "politicalAffiliation": "Republican Party",
   "notableFor": "U.S. Senator and 1964 Republican presidential nominee",
   "nationality": "American"
@@ -994,7 +994,7 @@
   "deathDate": "1924-12-13",
   "gender": "Male",
   "race": "White",
-  "areaOfInfluence": { "major": "Politics", "minor": "Labor Union Leadership" },
+  "areaOfInfluence": { "major": "Social Activism", "minor": "Labor" },
   "politicalAffiliation": "Labor Movement",
   "notableFor": "Founder of the American Federation of Labor (AFL)",
   "nationality": "American"
@@ -1005,7 +1005,7 @@
   "deathDate": "1943-02-03",
   "gender": "Male",
   "race": "White",
-  "areaOfInfluence": { "major": "Religion", "minor": "Military Chaplaincy" },
+  "areaOfInfluence": { "major": "Religion", "minor": "Military" },
   "politicalAffiliation": null,
   "notableFor": "One of the Four Chaplains who gave his life saving others during WWII",
   "nationality": "American"
@@ -1016,7 +1016,7 @@
   "deathDate": "1998-01-29",
   "gender": "Male",
   "race": "Native American",
-  "areaOfInfluence": { "major": "Military", "minor": "Code Talker" },
+  "areaOfInfluence": { "major": "Military", "minor": "World War II" },
   "politicalAffiliation": null,
   "notableFor": "Navajo Code Talker in WWII and later an artist",
   "nationality": "American"
@@ -1028,7 +1028,7 @@
   "deathDate": "2018-02-21",
   "gender": "Male",
   "race": "White",
-  "areaOfInfluence": { "major": "Religion", "minor": "Evangelism" },
+  "areaOfInfluence": { "major": "Religion", "minor": "Evangelical" },
   "politicalAffiliation": "Conservative",
   "notableFor": "Christian evangelist and spiritual advisor to U.S. presidents",
   "nationality": "American"
@@ -1050,7 +1050,7 @@
   "deathDate": "2012-08-13",
   "gender": "Female",
   "race": "White",
-  "areaOfInfluence": { "major": "Social Activism", "minor": "Pro-Life Activism" },
+  "areaOfInfluence": { "major": "Social Activism", "minor": "Anti-Abortion" },
   "politicalAffiliation": "Conservative",
   "notableFor": "Founder of the March for Life",
   "nationality": "American"
@@ -1061,7 +1061,7 @@
   "deathDate": "1786-06-19",
   "gender": "Male",
   "race": "White",
-  "areaOfInfluence": { "major": "Military", "minor": "Revolutionary War General" },
+  "areaOfInfluence": { "major": "Military", "minor": "Revolutionary War" },
   "politicalAffiliation": null,
   "notableFor": "Major general in the American Revolutionary War",
   "nationality": "American"
@@ -1072,7 +1072,7 @@
   "deathDate": "1967-10-03",
   "gender": "Male",
   "race": "White",
-  "areaOfInfluence": { "major": "Arts", "minor": "Music (Folk)" },
+  "areaOfInfluence": { "major": "Arts", "minor": "Music" },
   "politicalAffiliation": "Leftist/Socialist sympathizer",
   "notableFor": "Folk musician, writer of 'This Land Is Your Land'",
   "nationality": "American"
@@ -1083,7 +1083,7 @@
   "deathDate": "1776-09-22",
   "gender": "Male",
   "race": "White",
-  "areaOfInfluence": { "major": "Military", "minor": "Revolutionary War Spy" },
+  "areaOfInfluence": { "major": "Military", "minor": "Revolutionary War" },
   "politicalAffiliation": null,
   "notableFor": "American patriot and spy executed by the British",
   "nationality": "American"
@@ -1094,7 +1094,7 @@
   "deathDate": "1959-08-16",
   "gender": "Male",
   "race": "White",
-  "areaOfInfluence": { "major": "Military", "minor": "Naval Leadership" },
+  "areaOfInfluence": { "major": "Military", "minor": "Navy" },
   "politicalAffiliation": null,
   "notableFor": "Admiral in the U.S. Navy during WWII",
   "nationality": "American"
@@ -1105,7 +1105,7 @@
   "deathDate": "1804-07-12",
   "gender": "Male",
   "race": "White",
-  "areaOfInfluence": { "major": "Politics", "minor": "Secretary of the Treasury" },
+  "areaOfInfluence": { "major": "Politics", "minor": "Revolutionary Figure" },
   "politicalAffiliation": "Federalist Party",
   "notableFor": "First Secretary of the Treasury, founder of financial system",
   "nationality": "American"
@@ -1116,7 +1116,7 @@
   "deathDate": "1955-01-24",
   "gender": "Male",
   "race": "Native American",
-  "areaOfInfluence": { "major": "Military", "minor": "WWII Hero" },
+  "areaOfInfluence": { "major": "Military", "minor": "World War II" },
   "politicalAffiliation": null,
   "notableFor": "Pima Native American and Iwo Jima flag-raiser",
   "nationality": "American"
@@ -1149,7 +1149,7 @@
   "deathDate": "1799-06-06",
   "gender": "Male",
   "race": "White",
-  "areaOfInfluence": { "major": "Politics", "minor": "Revolutionary Leadership" },
+  "areaOfInfluence": { "major": "Politics", "minor": "Revolutionary Figure" },
   "politicalAffiliation": "Anti-Federalist",
   "notableFor": "Orator famous for 'Give me liberty, or give me death!'",
   "nationality": "American"
@@ -1182,7 +1182,7 @@
   "deathDate": "1959-07-17",
   "gender": "Female",
   "race": "African American",
-  "areaOfInfluence": { "major": "Arts", "minor": "Music (Jazz and Blues)" },
+  "areaOfInfluence": { "major": "Arts", "minor": "Music" },
   "politicalAffiliation": null,
   "notableFor": "Influential jazz singer known for 'Strange Fruit'",
   "nationality": "American"
@@ -1215,7 +1215,7 @@
     "deathDate": "1992-01-01",
     "gender": "Female",
     "race": "White",
-    "areaOfInfluence": { "major": "Science", "minor": "Computer Science" },
+    "areaOfInfluence": { "major": "Science", "minor": "Mathematics and Computing" },
     "politicalAffiliation": null,
     "notableFor": "Pioneer in computer programming; coined 'debugging'",
     "nationality": "American"
@@ -1226,7 +1226,7 @@
     "deathDate": "1863-07-26",
     "gender": "Male",
     "race": "White",
-    "areaOfInfluence": { "major": "Politics", "minor": "American Expansion and Texas Independence" },
+    "areaOfInfluence": { "major": "Politics", "minor": "Governor" },
     "politicalAffiliation": "Democratic-Republican, later Unionist",
     "notableFor": "Leader of Texas independence; namesake of Houston, Texas",
     "nationality": "American"
@@ -1237,7 +1237,7 @@
     "deathDate": "2012-02-11",
     "gender": "Female",
     "race": "African American",
-    "areaOfInfluence": { "major": "Arts", "minor": "Music (Pop and R&B)" },
+    "areaOfInfluence": { "major": "Arts", "minor": "Music" },
     "politicalAffiliation": null,
     "notableFor": "Singer with record-breaking achievements in music sales",
     "nationality": "American"
@@ -1270,7 +1270,7 @@
     "deathDate": "2012-12-17",
     "gender": "Male",
     "race": "Asian",
-    "areaOfInfluence": { "major": "Politics", "minor": "Legislative Leadership" },
+    "areaOfInfluence": { "major": "Politics", "minor": "Senator" },
     "politicalAffiliation": "Democratic Party",
     "notableFor": "First Japanese American elected to U.S. Senate; Medal of Honor recipient",
     "nationality": "American"
@@ -1292,7 +1292,7 @@
     "deathDate": "1954-10-09",
     "gender": "Male",
     "race": "White",
-    "areaOfInfluence": { "major": "Law", "minor": "Supreme Court and International Law" },
+    "areaOfInfluence": { "major": "Law", "minor": "Supreme Court" },
     "politicalAffiliation": null,
     "notableFor": "U.S. Supreme Court Justice; chief prosecutor at Nuremberg Trials",
     "nationality": "American"
@@ -1303,7 +1303,7 @@
       "deathDate": "2005-02-11",
       "gender": "Female",
       "race": "African American",
-      "areaOfInfluence": { "major": "Science", "minor": "Aerospace Engineering" },
+      "areaOfInfluence": { "major": "Science", "minor": "Aerospace" },
       "politicalAffiliation": null,
       "notableFor": "NASA's first Black female engineer",
       "nationality": "American"
@@ -1314,7 +1314,7 @@
       "deathDate": "1829-05-17",
       "gender": "Male",
       "race": "White",
-      "areaOfInfluence": { "major": "Politics", "minor": "Founding Father and Judiciary" },
+      "areaOfInfluence": { "major": "Law", "minor": "Supreme Court" },
       "politicalAffiliation": "Federalist",
       "notableFor": "First Chief Justice of the U.S. Supreme Court",
       "nationality": "American"
@@ -1347,7 +1347,7 @@
       "deathDate": "2020-02-24",
       "gender": "Female",
       "race": "African American",
-      "areaOfInfluence": { "major": "Science", "minor": "Mathematics and Aerospace" },
+      "areaOfInfluence": { "major": "Science", "minor": "Aerospace" },
       "politicalAffiliation": null,
       "notableFor": "Mathematician critical to NASA's early missions",
       "nationality": "American"
@@ -1358,7 +1358,7 @@
       "deathDate": "1996-01-17",
       "gender": "Female",
       "race": "African American",
-      "areaOfInfluence": { "major": "Politics", "minor": "Civil Rights and Legislative Service" },
+      "areaOfInfluence": { "major": "Politics", "minor": "Congress" },
       "politicalAffiliation": "Democratic Party",
       "notableFor": "First Black woman elected to Texas Senate and U.S. House from the South",
       "nationality": "American"
@@ -1369,7 +1369,7 @@
       "deathDate": "1904-09-21",
       "gender": "Male",
       "race": "Native American",
-      "areaOfInfluence": { "major": "Politics", "minor": "Indigenous Leadership" },
+      "areaOfInfluence": { "major": "Politics", "minor": "Native American Leadership" },
       "politicalAffiliation": null,
       "notableFor": "Leader of the Nez Perce during their resistance to U.S. government forces",
       "nationality": "American"
@@ -1446,7 +1446,7 @@
       "deathDate": "1994-04-29",
       "gender": "Male",
       "race": "White",
-      "areaOfInfluence": { "major": "Arts", "minor": "Political Philosophy and Writing" },
+      "areaOfInfluence": { "major": "Literature", "minor": "Political Theory" },
       "politicalAffiliation": "Conservative",
       "notableFor": "Author of 'The Conservative Mind'; intellectual architect of postwar conservatism",
       "nationality": "American"
@@ -1457,7 +1457,7 @@
       "deathDate": "2006-12-07",
       "gender": "Female",
       "race": "White",
-      "areaOfInfluence": { "major": "Politics", "minor": "Diplomacy and Foreign Policy" },
+      "areaOfInfluence": { "major": "Politics", "minor": "Diplomacy" },
       "politicalAffiliation": "Democratic (early), Republican (later)",
       "notableFor": "First woman U.S. Ambassador to the United Nations",
       "nationality": "American"
@@ -1468,7 +1468,7 @@
       "deathDate": "1806-10-25",
       "gender": "Male",
       "race": "White",
-      "areaOfInfluence": { "major": "Military", "minor": "Revolutionary War Leadership" },
+      "areaOfInfluence": { "major": "Military", "minor": "Revolutionary War" },
       "politicalAffiliation": null,
       "notableFor": "Chief artillery officer of the Continental Army",
       "nationality": "American"
@@ -1479,7 +1479,7 @@
       "deathDate": "1817-10-15",
       "gender": "Male",
       "race": "White",
-      "areaOfInfluence": { "major": "Military", "minor": "Revolutionary War and European Revolutions" },
+      "areaOfInfluence": { "major": "Military", "minor": "Revolutionary War" },
       "politicalAffiliation": null,
       "notableFor": "Polish engineer and military leader in American Revolution",
       "nationality": "Polish-Lithuanian/American"
@@ -1490,7 +1490,7 @@
       "deathDate": "2016-02-19",
       "gender": "Female",
       "race": "White",
-      "areaOfInfluence": { "major": "Arts", "minor": "Literature" },
+      "areaOfInfluence": { "major": "Literature", "minor": "Fiction" },
       "politicalAffiliation": null,
       "notableFor": "Author of 'To Kill a Mockingbird'",
       "nationality": "American"
@@ -1501,7 +1501,7 @@
       "deathDate": "1825-06-14",
       "gender": "Male",
       "race": "White",
-      "areaOfInfluence": { "major": "Arts", "minor": "Architecture and Urban Design" },
+      "areaOfInfluence": { "major": "Arts", "minor": "Architecture" },
       "politicalAffiliation": null,
       "notableFor": "Planner of Washington, D.C.",
       "nationality": "French-American"
@@ -1512,7 +1512,7 @@
       "deathDate": "1809-10-11",
       "gender": "Male",
       "race": "White",
-      "areaOfInfluence": { "major": "Exploration", "minor": "American West" },
+      "areaOfInfluence": { "major": "Exploration", "minor": "Lewis and Clark Expedition" },
       "politicalAffiliation": null,
       "notableFor": "Co-leader of the Lewis and Clark Expedition",
       "nationality": "American"
@@ -1534,7 +1534,7 @@
       "deathDate": "1970-09-03",
       "gender": "Male",
       "race": "White",
-      "areaOfInfluence": { "major": "Sports", "minor": "Football Coaching" },
+      "areaOfInfluence": { "major": "Sports", "minor": "Football" },
       "politicalAffiliation": null,
       "notableFor": "Legendary NFL coach; namesake of the Super Bowl trophy",
       "nationality": "American"
@@ -1545,7 +1545,7 @@
       "deathDate": "1882-03-24",
       "gender": "Male",
       "race": "White",
-      "areaOfInfluence": { "major": "Arts", "minor": "Poetry" },
+      "areaOfInfluence": { "major": "Literature", "minor": "Poetry" },
       "politicalAffiliation": null,
       "notableFor": "Author of 'Paul Revere’s Ride' and other American classics",
       "nationality": "American"
@@ -1567,7 +1567,7 @@
     "deathDate": "1964-04-05",
     "gender": "Male",
     "race": "White",
-    "areaOfInfluence": { "major": "Military", "minor": "World War II and Korean War Leadership" },
+    "areaOfInfluence": { "major": "Military", "minor": "World War II" },
     "politicalAffiliation": null,
     "notableFor": "Five-star U.S. general; oversaw Allied occupation of Japan",
     "nationality": "American"
@@ -1600,7 +1600,7 @@
     "deathDate": "1959-10-16",
     "gender": "Male",
     "race": "White",
-    "areaOfInfluence": { "major": "Military", "minor": "Army" },
+    "areaOfInfluence": { "major": "Military", "minor": "World War II" },
     "politicalAffiliation": null,
     "notableFor": "Chief of Staff of the U.S. Army; namesake of the Marshall Plan",
     "nationality": "American"
@@ -1622,7 +1622,7 @@
     "deathDate": "1911-03-06",
     "gender": "Male",
     "race": "White",
-    "areaOfInfluence": { "major": "Medicine", "minor": "Healthcare Innovation" },
+    "areaOfInfluence": { "major": "Science", "minor": "Medicine" },
     "politicalAffiliation": null,
     "notableFor": "Co-founder of the Mayo Clinic",
     "nationality": "American"
@@ -1655,7 +1655,7 @@
     "deathDate": "1993-05-29",
     "gender": "Female",
     "race": "White",
-    "areaOfInfluence": { "major": "Medicine", "minor": "Nursing Education" },
+    "areaOfInfluence": { "major": "Science", "minor": "Medicine" },
     "politicalAffiliation": null,
     "notableFor": "Leader in professionalizing nursing education",
     "nationality": "American"
@@ -1666,7 +1666,7 @@
     "deathDate": "1891-09-28",
     "gender": "Male",
     "race": "White",
-    "areaOfInfluence": { "major": "Arts", "minor": "Literature" },
+    "areaOfInfluence": { "major": "Literature", "minor": "Fiction" },
     "politicalAffiliation": null,
     "notableFor": "Author of 'Moby-Dick'",
     "nationality": "American"
@@ -1677,7 +1677,7 @@
     "deathDate": "1968-12-10",
     "gender": "Male",
     "race": "White",
-    "areaOfInfluence": { "major": "Religion", "minor": "Spiritual Writing" },
+    "areaOfInfluence": { "major": "Religion", "minor": "Catholic" },
     "politicalAffiliation": null,
     "notableFor": "Trappist monk and author of 'The Seven Storey Mountain'",
     "nationality": "American"
@@ -1710,7 +1710,7 @@
     "deathDate": "1936-02-19",
     "gender": "Male",
     "race": "White",
-    "areaOfInfluence": { "major": "Military", "minor": "Aviation Pioneer" },
+    "areaOfInfluence": { "major": "Military", "minor": "Air Force" },
     "politicalAffiliation": null,
     "notableFor": "Advocated for U.S. air power; 'Father of the U.S. Air Force'",
     "nationality": "American"
@@ -1732,7 +1732,7 @@
     "deathDate": "1880-11-11",
     "gender": "Female",
     "race": "White",
-    "areaOfInfluence": { "major": "Social Activism", "minor": "Abolition and Women's Rights" },
+    "areaOfInfluence": { "major": "Social Activism", "minor": "Abolitionism" },
     "politicalAffiliation": null,
     "notableFor": "Quaker leader in abolition and women's suffrage movements",
     "nationality": "American"
@@ -1754,7 +1754,7 @@
     "deathDate": "1971-05-28",
     "gender": "Male",
     "race": "White",
-    "areaOfInfluence": { "major": "Military", "minor": "War Hero and Actor" },
+    "areaOfInfluence": { "major": "Military", "minor": "World War II" },
     "politicalAffiliation": null,
     "notableFor": "Most decorated U.S. soldier of WWII; later a Hollywood actor",
     "nationality": "American"
@@ -1776,7 +1776,7 @@
     "deathDate": "1860-01-05",
     "gender": "Male",
     "race": "White",
-    "areaOfInfluence": { "major": "Religion", "minor": "Catholic Leadership" },
+    "areaOfInfluence": { "major": "Religion", "minor": "Catholic" },
     "politicalAffiliation": null,
     "notableFor": "First American bishop to be canonized as a saint",
     "nationality": "American"
@@ -1787,7 +1787,7 @@
     "deathDate": "1926-11-03",
     "gender": "Female",
     "race": "White",
-    "areaOfInfluence": { "major": "Misc", "minor": "Sharpshooting and Wild West Entertainment" },
+    "areaOfInfluence": { "major": "Misc", "minor": "Wild West Shows" },
     "politicalAffiliation": null,
     "notableFor": "Sharpshooter and star of Buffalo Bill's Wild West show",
     "nationality": "American"
@@ -1820,7 +1820,7 @@
     "deathDate": "1945-12-21",
     "gender": "Male",
     "race": "White",
-    "areaOfInfluence": { "major": "Military", "minor": "World War II Leadership" },
+    "areaOfInfluence": { "major": "Military", "minor": "World War II" },
     "politicalAffiliation": null,
     "notableFor": "Prominent and controversial U.S. general in WWII",
     "nationality": "American"
@@ -1831,7 +1831,7 @@
     "deathDate": "1827-02-22",
     "gender": "Male",
     "race": "White",
-    "areaOfInfluence": { "major": "Arts", "minor": "Painting and Natural History" },
+    "areaOfInfluence": { "major": "Arts", "minor": "Painting" },
     "politicalAffiliation": null,
     "notableFor": "Portrait artist of American Revolution figures",
     "nationality": "American"
@@ -1842,7 +1842,7 @@
     "deathDate": "1718-07-30",
     "gender": "Male",
     "race": "White",
-    "areaOfInfluence": { "major": "Politics", "minor": "Colonial Founding and Quaker Leadership" },
+    "areaOfInfluence": { "major": "Politics", "minor": "Colonial Founding" },
     "politicalAffiliation": null,
     "notableFor": "Founder of Pennsylvania; advocate for democracy and religious freedom",
     "nationality": "English"
@@ -1853,7 +1853,7 @@
     "deathDate": "1819-08-23",
     "gender": "Male",
     "race": "White",
-    "areaOfInfluence": { "major": "Military", "minor": "Naval Warfare" },
+    "areaOfInfluence": { "major": "Military", "minor": "Navy" },
     "politicalAffiliation": null,
     "notableFor": "Hero of the Battle of Lake Erie during the War of 1812",
     "nationality": "American"
@@ -1864,7 +1864,7 @@
     "deathDate": "1948-07-15",
     "gender": "Male",
     "race": "White",
-    "areaOfInfluence": { "major": "Military", "minor": "World War I Leadership" },
+    "areaOfInfluence": { "major": "Military", "minor": "World War I" },
     "politicalAffiliation": null,
     "notableFor": "Commander of the American Expeditionary Forces in WWI",
     "nationality": "American"
@@ -1875,7 +1875,7 @@
     "deathDate": "1849-10-07",
     "gender": "Male",
     "race": "White",
-    "areaOfInfluence": { "major": "Arts", "minor": "Literature and Poetry" },
+    "areaOfInfluence": { "major": "Literature", "minor": "Poetry" },
     "politicalAffiliation": null,
     "notableFor": "Author of macabre and mystery tales like 'The Raven'",
     "nationality": "American"
@@ -1886,7 +1886,7 @@
     "deathDate": "1943-02-03",
     "gender": "Male",
     "race": "White",
-    "areaOfInfluence": { "major": "Religion", "minor": "World War II Chaplaincy" },
+    "areaOfInfluence": { "major": "Religion", "minor": "Military" },
     "politicalAffiliation": null,
     "notableFor": "One of the Four Chaplains who sacrificed their lives during WWII",
     "nationality": "American"
@@ -1908,7 +1908,7 @@
     "deathDate": "1977-08-16",
     "gender": "Male",
     "race": "White",
-    "areaOfInfluence": { "major": "Arts", "minor": "Music (Rock and Roll)" },
+    "areaOfInfluence": { "major": "Arts", "minor": "Music" },
     "politicalAffiliation": null,
     "notableFor": "Iconic American singer known as the 'King of Rock and Roll'",
     "nationality": "American"
@@ -1941,7 +1941,7 @@
     "deathDate": "1902-11-23",
     "gender": "Male",
     "race": "White",
-    "areaOfInfluence": { "major": "Medicine", "minor": "Medical Research" },
+    "areaOfInfluence": { "major": "Science", "minor": "Medicine" },
     "politicalAffiliation": null,
     "notableFor": "Army physician who proved mosquitoes transmit yellow fever",
     "nationality": "American"
@@ -1963,7 +1963,7 @@
     "deathDate": "1818-05-10",
     "gender": "Male",
     "race": "White",
-    "areaOfInfluence": { "major": "Politics", "minor": "Revolutionary War Patriot" },
+    "areaOfInfluence": { "major": "Politics", "minor": "Revolutionary Figure" },
     "politicalAffiliation": null,
     "notableFor": "Famous for his midnight ride warning of British advance",
     "nationality": "American"
@@ -2007,7 +2007,7 @@
     "deathDate": "1993-07-26",
     "gender": "Male",
     "race": "White",
-    "areaOfInfluence": { "major": "Military", "minor": "World War II and Korean War Leadership" },
+    "areaOfInfluence": { "major": "Military", "minor": "World War II" },
     "politicalAffiliation": null,
     "notableFor": "U.S. Army general; revitalized UN forces during Korean War",
     "nationality": "American"
@@ -2018,7 +2018,7 @@
     "deathDate": "1972-10-24",
     "gender": "Male",
     "race": "African American",
-    "areaOfInfluence": { "major": "Sports", "minor": "Baseball and Civil Rights" },
+    "areaOfInfluence": { "major": "Sports", "minor": "Baseball" },
     "politicalAffiliation": "Republican (early), Democratic-leaning (later)",
     "notableFor": "Broke the MLB color barrier with the Brooklyn Dodgers",
     "nationality": "American"
@@ -2040,7 +2040,7 @@
     "deathDate": "1784-06-26",
     "gender": "Male",
     "race": "White",
-    "areaOfInfluence": { "major": "Politics", "minor": "Founding Father" },
+    "areaOfInfluence": { "major": "Politics", "minor": "Revolutionary Figure" },
     "politicalAffiliation": null,
     "notableFor": "Signer of the Declaration of Independence from Delaware",
     "nationality": "American"
@@ -2084,7 +2084,7 @@
     "deathDate": "1836-01-30",
     "gender": "Female",
     "race": "White",
-    "areaOfInfluence": { "major": "Politics", "minor": "Symbolism of the U.S. Flag" },
+    "areaOfInfluence": { "major": "Politics", "minor": "Revolutionary Figure" },
     "politicalAffiliation": null,
     "notableFor": "Credited with sewing the first American flag",
     "nationality": "American"
@@ -2117,7 +2117,7 @@
     "deathDate": "1995-06-23",
     "gender": "Male",
     "race": "White",
-    "areaOfInfluence": { "major": "Medicine", "minor": "Virology" },
+    "areaOfInfluence": { "major": "Science", "minor": "Medicine" },
     "politicalAffiliation": null,
     "notableFor": "Developer of the first successful polio vaccine",
     "nationality": "American"
@@ -2139,7 +2139,7 @@
     "deathDate": "2016-02-13",
     "gender": "Male",
     "race": "White",
-    "areaOfInfluence": { "major": "Law", "minor": "Supreme Court Jurisprudence" },
+    "areaOfInfluence": { "major": "Law", "minor": "Supreme Court" },
     "politicalAffiliation": "Conservative",
     "notableFor": "Influential conservative Supreme Court justice",
     "nationality": "American"
@@ -2150,7 +2150,7 @@
     "deathDate": "2012-12-27",
     "gender": "Male",
     "race": "White",
-    "areaOfInfluence": { "major": "Military", "minor": "Gulf War Leadership" },
+    "areaOfInfluence": { "major": "Military", "minor": "Gulf War" },
     "politicalAffiliation": null,
     "notableFor": "Commander of Coalition Forces in the Gulf War",
     "nationality": "American"
@@ -2161,7 +2161,7 @@
     "deathDate": "1784-08-28",
     "gender": "Male",
     "race": "White",
-    "areaOfInfluence": { "major": "Religion", "minor": "Missionary Work" },
+    "areaOfInfluence": { "major": "Religion", "minor": "Catholic" },
     "politicalAffiliation": null,
     "notableFor": "Founded missions across California",
     "nationality": "Spanish"
@@ -2172,7 +2172,7 @@
     "deathDate": "1821-01-04",
     "gender": "Female",
     "race": "White",
-    "areaOfInfluence": { "major": "Religion", "minor": "Catholic Education" },
+    "areaOfInfluence": { "major": "Religion", "minor": "Catholic" },
     "politicalAffiliation": null,
     "notableFor": "First American-born canonized saint",
     "nationality": "American"
@@ -2183,7 +2183,7 @@
     "deathDate": "1863-07-18",
     "gender": "Male",
     "race": "White",
-    "areaOfInfluence": { "major": "Military", "minor": "Civil War Leadership" },
+    "areaOfInfluence": { "major": "Military", "minor": "Civil War" },
     "politicalAffiliation": null,
     "notableFor": "Commander of the 54th Massachusetts, one of the first Black regiments",
     "nationality": "American"
@@ -2194,7 +2194,7 @@
     "deathDate": "1979-12-09",
     "gender": "Male",
     "race": "White",
-    "areaOfInfluence": { "major": "Religion", "minor": "Catholic Media and Evangelism" },
+    "areaOfInfluence": { "major": "Religion", "minor": "Catholic" },
     "politicalAffiliation": null,
     "notableFor": "Influential Catholic bishop and television personality",
     "nationality": "American"
@@ -2227,7 +2227,7 @@
     "deathDate": "1995-05-29",
     "gender": "Female",
     "race": "White",
-    "areaOfInfluence": { "major": "Politics", "minor": "Senate and Anti-McCarthyism" },
+    "areaOfInfluence": { "major": "Politics", "minor": "Senator" },
     "politicalAffiliation": "Republican Party",
     "notableFor": "First woman to serve in both houses of Congress",
     "nationality": "American"
@@ -2238,7 +2238,7 @@
     "deathDate": "1937-09-26",
     "gender": "Female",
     "race": "African American",
-    "areaOfInfluence": { "major": "Arts", "minor": "Music (Blues)" },
+    "areaOfInfluence": { "major": "Arts", "minor": "Music" },
     "politicalAffiliation": null,
     "notableFor": "Known as the 'Empress of the Blues'",
     "nationality": "American"
@@ -2271,7 +2271,7 @@
     "deathDate": "1896-07-01",
     "gender": "Female",
     "race": "White",
-    "areaOfInfluence": { "major": "Arts", "minor": "Literature and Abolitionism" },
+    "areaOfInfluence": { "major": "Literature", "minor": "Fiction" },
     "politicalAffiliation": null,
     "notableFor": "Author of 'Uncle Tom's Cabin'",
     "nationality": "American"
@@ -2293,7 +2293,7 @@
     "deathDate": "1936-10-20",
     "gender": "Female",
     "race": "White",
-    "areaOfInfluence": { "major": "Social Activism", "minor": "Special Education" },
+    "areaOfInfluence": { "major": "Social Activism", "minor": "Disability Rights" },
     "politicalAffiliation": null,
     "notableFor": "Teacher and lifelong companion of Helen Keller",
     "nationality": "American"
@@ -2326,7 +2326,7 @@
     "deathDate": "1987-04-19",
     "gender": "Male",
     "race": "White",
-    "areaOfInfluence": { "major": "Military", "minor": "World War II and Vietnam War" },
+    "areaOfInfluence": { "major": "Military", "minor": "World War II" },
     "politicalAffiliation": null,
     "notableFor": "General and diplomat during WWII and Cold War",
     "nationality": "American"
@@ -2337,7 +2337,7 @@
     "deathDate": "1813-10-05",
     "gender": "Male",
     "race": "Native American",
-    "areaOfInfluence": { "major": "Politics", "minor": "Indigenous Leadership" },
+    "areaOfInfluence": { "major": "Politics", "minor": "Native American Leadership" },
     "politicalAffiliation": null,
     "notableFor": "Shawnee leader who opposed U.S. expansion",
     "nationality": "American"
@@ -2348,7 +2348,7 @@
     "deathDate": "1680-04-17",
     "gender": "Female",
     "race": "Native American",
-    "areaOfInfluence": { "major": "Religion", "minor": "Catholic Sainthood" },
+    "areaOfInfluence": { "major": "Religion", "minor": "Catholic" },
     "politicalAffiliation": null,
     "notableFor": "First Native American to be canonized as a saint",
     "nationality": "American"
@@ -2392,7 +2392,7 @@
     "deathDate": "1862-05-06",
     "gender": "Male",
     "race": "White",
-    "areaOfInfluence": { "major": "Arts", "minor": "Philosophy and Literature" },
+    "areaOfInfluence": { "major": "Literature", "minor": "Philosophy" },
     "politicalAffiliation": null,
     "notableFor": "Transcendentalist author of 'Walden' and 'Civil Disobedience'",
     "nationality": "American"
@@ -2414,7 +2414,7 @@
     "deathDate": "1897-07-09",
     "gender": "Male",
     "race": "African American",
-    "areaOfInfluence": { "major": "Religion", "minor": "Catholic Priesthood" },
+    "areaOfInfluence": { "major": "Religion", "minor": "Catholic" },
     "politicalAffiliation": null,
     "notableFor": "First publicly recognized Black Catholic priest in the U.S.",
     "nationality": "American"
@@ -2425,7 +2425,7 @@
     "deathDate": "2020-11-08",
     "gender": "Male",
     "race": "White",
-    "areaOfInfluence": { "major": "Arts", "minor": "Television Hosting" },
+    "areaOfInfluence": { "major": "Misc", "minor": "Television Hosting" },
     "politicalAffiliation": null,
     "notableFor": "Longtime host of the game show 'Jeopardy!'",
     "nationality": "Canadian-American"
@@ -2480,7 +2480,7 @@
     "deathDate": "2020-07-17",
     "gender": "Male",
     "race": "African American",
-    "areaOfInfluence": { "major": "Social Activism", "minor": "Civil Rights and Ministry" },
+    "areaOfInfluence": { "major": "Social Activism", "minor": "Civil Rights" },
     "politicalAffiliation": null,
     "notableFor": "Minister and close advisor to Martin Luther King Jr.",
     "nationality": "American"
@@ -2579,7 +2579,7 @@
     "deathDate": "1784-12-05",
     "gender": "Female",
     "race": "African American",
-    "areaOfInfluence": { "major": "Arts", "minor": "Poetry" },
+    "areaOfInfluence": { "major": "Literature", "minor": "Poetry" },
     "politicalAffiliation": null,
     "notableFor": "First African American woman to publish a book of poetry",
     "nationality": "American"
@@ -2590,7 +2590,7 @@
     "deathDate": "1892-03-26",
     "gender": "Male",
     "race": "White",
-    "areaOfInfluence": { "major": "Arts", "minor": "Poetry" },
+    "areaOfInfluence": { "major": "Literature", "minor": "Poetry" },
     "politicalAffiliation": null,
     "notableFor": "Author of *Leaves of Grass*; pioneer of free verse",
     "nationality": "American"
@@ -2601,15 +2601,15 @@
     "deathDate": "1957-02-10",
     "gender": "Female",
     "race": "White",
-    "areaOfInfluence": { "major": "Arts", "minor": "Literature and Children's Writing" },
+    "areaOfInfluence": { "major": "Literature", "minor": "Children's Books" },
     "politicalAffiliation": null,
     "notableFor": "Author of the *Little House on the Prairie* series",
     "nationality": "American"
   },
   {
     "name": "Roger Williams",
-    "birthDate": "c.1603-01-01",
-    "deathDate": "1683-01-01",
+    "birthDate": "1603-00-00",
+    "deathDate": "1683-00-00",
     "gender": "Male",
     "race": "White",
     "areaOfInfluence": { "major": "Politics", "minor": "Governor" },
@@ -2667,7 +2667,7 @@
     "deathDate": "1964-09-02",
     "gender": "Male",
     "race": "White",
-    "areaOfInfluence": { "major": "Military", "minor": "World War I Heroism" },
+    "areaOfInfluence": { "major": "Military", "minor": "World War I" },
     "politicalAffiliation": null,
     "notableFor": "Highly decorated WWI soldier; awarded the Medal of Honor",
     "nationality": "American"
@@ -2689,7 +2689,7 @@
     "deathDate": "1836-11-15",
     "gender": "Male",
     "race": "Latino",
-    "areaOfInfluence": { "major": "Politics", "minor": "Misc" },
+    "areaOfInfluence": { "major": "Politics", "minor": "Vice President" },
     "politicalAffiliation": null,
     "notableFor": "Mexican politician and first Vice President of the Republic of Texas",
     "nationality": "Mexican-American"
