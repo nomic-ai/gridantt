@@ -110,7 +110,7 @@
 					rows={1}
 					>
 						{#snippet header()}
-							<span class="text header-text">{arr.label}</span>
+							<span class="text header-text">{arr.label} ({arr.data.length})</span>
 						{/snippet}
 						<div>
 							<GanttChart
