@@ -66,8 +66,8 @@
 
 </script>
 <div class="header" style="display: flex; flex-direction: column; gap: 1rem; align-items: center;">
-  People identified in <a href="https://trumpwhitehouse.archives.gov/presidential-actions/executive-order-building-national-garden-american-heroes/">Executive Order 13978</a>
-  to have lifesize statues in the "National Garden of American Heroes."
+  <span>People identified in <a href="https://trumpwhitehouse.archives.gov/presidential-actions/executive-order-building-national-garden-american-heroes/">Executive Order 13978</a>
+  to have lifesize statues in the "National Garden of American Heroes."</span>
   <div style="display: flex; gap: 1rem; align-items: center; justify-content: space-between;">
   <div class="search">
     <label for="search">Filter by text</label>
@@ -87,20 +87,23 @@
       <option value="area">Area of Influence</option>
     </select>
   </div>
-  <div class="groupings" style="display: flex; flex-direction: column; gap: 0.2rem; align-items: center;">
+<div style="display: flex; flex-direction: row; gap: 0.2rem; align-items: center;">
+  <span>Group by</span>
+    <div class="groupings" style="display: flex; flex-direction: column; gap: 0.2rem; align-items: center;">
     {#each range(groupings.length) as i}
       <div style="display: flex; gap: 0.2rem; align-items: center;">
         <select bind:value={groupings[i]}>
           <option value="gender">Gender</option>
         <option value="race">Race</option>
         <option value="area">Area of Influence</option>
-          <option value="minor">Minor Area of Influence</option>
+          <option value="minor">Secondary Area of Influence</option>
         </select>
         <button on:click={() => groupings = groupings.filter((g, j) => j !== i)}>X</button>
       </div>
     {/each}
     <button on:click={() => groupings.push(groupings[groupings.length - 1])}>Add</button>
   </div>
+</div>
 </div>
 </div>
 <div class="content"> 
