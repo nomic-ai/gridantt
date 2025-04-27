@@ -66,7 +66,8 @@
 
 </script>
 <div class="header" style="display: flex; flex-direction: column; gap: 1rem; align-items: center;">
-  American Heroes
+  People identified in <a href="https://trumpwhitehouse.archives.gov/presidential-actions/executive-order-building-national-garden-american-heroes/">Executive Order 13978</a>
+  to have lifesize statues in the "National Garden of American Heroes."
   <div style="display: flex; gap: 1rem; align-items: center; justify-content: space-between;">
   <div class="search">
     <label for="search">Filter by text</label>
