@@ -38,20 +38,20 @@
 		"svelte": "^5.0.0"
 	},
 	"devDependencies": {
-		"@sveltejs/adapter-auto": "^3.0.0",
-		"@sveltejs/kit": "^2.9.0",
-		"@sveltejs/package": "^2.0.0",
-		"@sveltejs/vite-plugin-svelte": "^5.0.0",
+		"@sveltejs/adapter-auto": "^6.0.0",
+		"@sveltejs/kit": "^2.20.7",
+		"@sveltejs/package": "^2.3.11",
+		"@sveltejs/vite-plugin-svelte": "^5.0.3",
 		"@types/d3-array": "^3.2.1",
-		"@types/d3-scale": "^4.0.8",
-		"prettier": "^3.3.2",
-		"prettier-plugin-svelte": "^3.2.6",
+		"@types/d3-scale": "^4.0.9",
+		"prettier": "^3.5.3",
+		"prettier-plugin-svelte": "^3.3.3",
 		"publint": "^0.2.0",
 		"svelte": "^5.0.0",
-		"svelte-check": "^4.0.0",
+		"svelte-check": "^4.1.6",
 		"typescript": "^5.0.0",
-		"vite": "^6.0.0",
-		"vitest": "^2.0.4"
+		"vite": "^6.3.3",
+		"vitest": "^3.1.2"
 	},
 	"dependencies": {
 		"d3-array": "^3.2.4",
